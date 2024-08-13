@@ -1,0 +1,4 @@
+Lexical scoping: A closure gives you access to an outer function's scope from inner function.
+In javascript , closures are created every time a function is created, at function creation time
+
+
